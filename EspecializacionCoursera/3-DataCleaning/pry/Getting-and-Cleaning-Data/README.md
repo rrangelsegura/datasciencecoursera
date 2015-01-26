@@ -2,7 +2,7 @@
 Tidy data generation for Human Activity Recognition Using Smartphones Dataset
 Version 1.0
 ==================================================================
-Javier Samir Rey 
+Rene Rangel 
 Coursera data specialization 
 January 2015
 ==================================================================
@@ -40,5 +40,5 @@ Notes:
 - This code assumes that the working directory is the unzipped file: zip getdata-projectfiles-UCI HAR Dataset
 - Before install package: dplyr, install.packages("dplyr").
 
-For more information about this script: jreyro@gmail.com
+For more information about this script: rrangelsegura@gmail.com
 
